@@ -65,4 +65,4 @@ Finally, we can see the details about the completed pipeline along with other de
 2. We are choosing the best model based on the accuracy but the data that we are using is imbalanced. The Accuracy metric is not ideal for imbalanced dataset. What We could do is understand the business requirement in more detail and choose the right metric.
 
 ## Screen Recording
-https://www.youtube.com/watch?v=-EyucVP8Q6w
+https://1drv.ms/v/s!Ar11OR2sp44jgaZBLQ1Ywb7JapHzLQ?e=xkOAW4
